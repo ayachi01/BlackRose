@@ -167,14 +167,16 @@ p{
 }
 
 .discord-link img,
-.tiktok-link img {
+.tiktok-link img,
+.roblox-link img {
   width: 100px;
   height: 100px;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 .discord-link img:hover,
-.tiktok-link img:hover {
+.tiktok-link img:hover,
+.roblox-link img:hover {
   transform: scale(1.1);
   opacity: 0.8;
   cursor: pointer;
